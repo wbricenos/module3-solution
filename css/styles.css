@@ -11,6 +11,7 @@ h1 {
   text-align: center;
   font-family: sans-serif;
   color: black;
+  font-weight: bold;
 }
 
 
@@ -23,8 +24,6 @@ h1 {
   margin-left: 20px;
 
 }
-
-
 
 #header-nav {
   background-color: #4fcbfe;
@@ -43,7 +42,7 @@ h1 {
   padding-top: 25px;
 }
 
-.navbar-brand h1 { /* REST name */
+.navbar-brand h1 {
   font-family: sans-serif;
   color: #212845;
   font-size: 1.5em;
@@ -80,6 +79,8 @@ h1 {
   clear: both;
   margin-top: -30px;
 }
+
+
 
 
 
